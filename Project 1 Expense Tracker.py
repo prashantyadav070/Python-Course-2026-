@@ -5,7 +5,7 @@ expenses = [] ##list of expenses in form of dictionary
 print("🎍💸💸💸  Welcome to Expense Tracker : 💸💸💸🎍")
 
 while True:
-    print("\n📋📋📋 MENU 📋📋📋")
+    print("\n📋📋📋 MENU 📋📋📋")  
     print("\n ➕ 1.Add Expense")
     print("\n 🕶️ 2.View all expenses")
     print("\n 💯 3.View Total Expenses")

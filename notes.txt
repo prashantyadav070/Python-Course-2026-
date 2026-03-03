@@ -1,0 +1,6 @@
+Welcome to File Handling Revision
+This file is created using write mode.
+Write mode overwrites existing content.
+This line is appended.
+
+Added using r+ mode.
